@@ -12,7 +12,7 @@ humantime: "10:00 am - 15:00 pm CET"    # human-readable times for the workshop 
 startdate: 2026-09-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-10-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Charlie Greene", "Anouk Vlug"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Sreenithya Avadakkam", "Silvia Fattori", "Sophie Arnoult", "Isa Monkau"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["c.c.greene@vu.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 # Optional variables
 collaborative_notes:  https://pad.carpentries.org/2026-09-30-Amsterdam # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
